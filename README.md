@@ -12,7 +12,7 @@ Elaborei resumos – por conteúdo – utilizando todos os slides da cadeira par
 <br>
 [Fichamentos](https://github.com/poeisie/ic-course/tree/main/assets)
 <br>
-[Exercícios de aquecimento/revisão](https://github.com/poeisie/ic-course/blob/main/assets/warm-ups/WU%2001%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Computa%C3%A7%C3%A3o%20e%20Evolu%C3%A7%C3%A3o%20da%20Web.pdf)
+[Exercícios de aquecimento/revisão](https://github.com/poeisie/ic-course/tree/main/assets%2Fwarm-ups)
 <br>
 <br>
 Dito isso, bons estudos!
