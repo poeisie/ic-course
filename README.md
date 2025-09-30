@@ -18,4 +18,4 @@ Elaborei resumos – por conteúdo – utilizando todos os slides da cadeira par
 Dito isso, bons estudos!
 
 ---
-Com carinho, [Caliel Feijó](https://github.com/poeisie)
+Com carinho, [Caliel Feijó](https://github.com/poeisie) e [Carlos Henrique](https://github.com/carlos-henriquedev).
