@@ -7,7 +7,7 @@ A prova deve seguir o seguinte esquema:
 2. Questões com trecho de código para apontar o erro, ou indicar o que vai acontecer (output);
 3. Questões com trecho de código para preencher.
 
-Elaborei resumos – por conteúdo – utilizando todos os slides da cadeira para que não precise ler um a um. É um conteúdo bem enxuto, mas se ainda restar dúvidas, não hesite em entrar em contato! Os exercícios de aquecimento são aqueles que ajudam a prender o conteúdo na sua mente. São simples, mas ajudam. Por fim, temos mais 20 questões de revisão e um (1) simulado para a prova. Façam bom proveito :)
+Elaborei resumos – por conteúdo – utilizando todos os slides da cadeira para que não precise ler um a um. É um conteúdo bem enxuto, mas se ainda restar dúvidas, não hesite em entrar em contato! Os exercícios de aquecimento são aqueles que ajudam a prender o conteúdo na sua mente. São simples, mas ajudam. Por fim, temos mais 20 questões de revisão e um (1) simulado para a prova. Faça bom proveito :)
 <br>
 <br>
 [Fichamentos](https://github.com/poeisie/ic-course/tree/main/assets)
